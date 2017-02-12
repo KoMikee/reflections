@@ -27,4 +27,4 @@ using google docs - hard to keep track of different branches, but all the change
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+it is easier to make different versions of the same code
