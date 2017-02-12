@@ -17,7 +17,7 @@ fork is github term for cloning a repository on github - clone is a copy a repos
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+one can see and control what other changes other collaborators made to the code
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
