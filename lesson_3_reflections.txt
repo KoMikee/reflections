@@ -22,7 +22,7 @@ one can see and control what other changes other collaborators made to the code
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+using google docs - hard to keep track of different branches, but all the changes are online immidiately. but impossible to keep track of forks (no link back)
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
